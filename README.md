@@ -8,6 +8,7 @@
 
 The project demonstrate Continuous Integration with TravisCI and Github with Angular project.
 
+
 Built the app on top of this [amazing codepen](https://codepen.io/samarkandiy/pen/JxnCF) by [samarkandiy](https://codepen.io/samarkandiy).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
