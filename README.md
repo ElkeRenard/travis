@@ -13,7 +13,6 @@ Built the app on top of this [amazing codepen](https://codepen.io/samarkandiy/pe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
 
-
 ## DEMO
 
 The demo is live [HERE](https://ahsanayaz.github.io/ng-traffic-ci)
